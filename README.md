@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/MAILAUTO/assets/logo.png" height="60"><br>
+<img src="https://github.com/emailall/assets/logo.png" height="60"><br>
 
 A mail sending automation tool, Using Python
 </p>
@@ -39,8 +39,8 @@ A mail sending automation tool, Using Python
      - 'Sudo python3.8 sendmessage.py'
 
 ## screenshots
-- <a href="https://github.com/MAILAUTO/Screenshots/firstTrial.png">
-- <a href="https://github.com/MAILAUTO/Screenshots/confirmation.png">
+- <a href="https://github.com/emailall/Screenshots/firstTrial.png">
+- <a href="https://github.com/emailall/Screenshots/confirmation.png">
 
 
 
