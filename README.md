@@ -3,7 +3,6 @@
 
 A mail sending automation tool, Using Python
 </p>
-#master readme
 
 
 ## Fatures 
