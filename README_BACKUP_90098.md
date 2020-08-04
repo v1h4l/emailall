@@ -5,6 +5,12 @@ A mail sending automation tool, Using Python
 </p>
 
 
+<<<<<<< HEAD
+feature-y
+feature-x
+=======
+Python language is simple to learn
+>>>>>>> feature-x
 ## Fatures 
 - Enable sending to a list of emails
 - Fast Sending

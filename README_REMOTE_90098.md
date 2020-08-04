@@ -5,6 +5,7 @@ A mail sending automation tool, Using Python
 </p>
 
 
+Python language is simple to learn
 ## Fatures 
 - Enable sending to a list of emails
 - Fast Sending
