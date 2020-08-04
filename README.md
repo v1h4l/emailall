@@ -6,6 +6,7 @@ A mail sending automation tool, Using Python
 
 
 feature-y
+feature-x
 ## Fatures 
 - Enable sending to a list of emails
 - Fast Sending
