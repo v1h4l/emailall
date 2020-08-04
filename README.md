@@ -3,7 +3,7 @@
 
 A mail sending automation tool, Using Python
 </p>
-
+#master readme
 
 ## Fatures 
 - Enable sending to a list of emails
