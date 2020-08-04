@@ -4,8 +4,7 @@
 A mail sending automation tool, Using Python
 </p>
 
-
-
+#create conflict
 ## Fatures 
 - Enable sending to a list of emails
 - Fast Sending
