@@ -5,9 +5,6 @@ A mail sending automation tool, Using Python
 </p>
 
 
-
-
-feature-z
 ## Fatures 
 - Enable sending to a list of emails
 - Fast Sending
